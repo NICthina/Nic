@@ -9,7 +9,9 @@
 <h1><big>
 <hr size=2 color=white>
 <hr size=5 color=white>
-<center>COSMICGUILD</center>
+<center>
+COSMICGUILD
+</center>
 <hr size=5 color=white>
 <hr size=2 color=white>
 <img src=button_home.png> <img src=button_quem-somos.png>
@@ -25,7 +27,6 @@
 </body>
 </html>
 <head>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -70,7 +71,6 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </body>
 </html>
 <head>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -95,7 +95,6 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </body>
 </html>
 <head>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -127,9 +126,8 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <BR>
 </body>
 </html>
-<head>
 <html>
-<title> CosmicGuild </title>
+<head>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -204,7 +202,6 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </html>
 <head>
 <html>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -229,7 +226,6 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </html>
 <head>
 <html>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -262,7 +258,6 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </html>
 <html>
 <head>
-<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
