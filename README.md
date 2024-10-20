@@ -16,11 +16,12 @@ COSMICGUILD
 <img src=a3.png> <img src=a4.png>
 <img src=a5.png> <img src=a6.png
 <img src=a7.png> <img src=a8.png>
-<img src=a9.png> <img src=a10.png>
+<img src=a9.png> 
+<img src=a10.png>
 <hr size=5 color=white>
 <hr size=2 color=white>
 <br>
-<img src=star.jpg width=1100 height=600>
+<img src=Picsart_24-10-20_12-13-00-375.png width=1100 height=600>
 </body>
 </html>
 <head>
