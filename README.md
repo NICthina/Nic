@@ -141,6 +141,14 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <img src=1922780aa733c9eee6912c33d0fa01f7.jpg width=450 height=450 border=5>
 <img src=6c847d615ad5e92e3506bb4e6a685e6a.jpg width=450 height=450 border=5>
 <br>
+<td><FONT COLOR=WHITE><CENTER><BIG>R$45</td>
+<td><FONT COLOR=WHITE><CENTER><BIG>R$65</td>
+<td><FONT COLOR=WHITE><CENTER><BIG>R$75</td>
+</Tr>
+<Tr>
+<td><FONT COLOR=WHITE><CENTER><BIG><img src=bot.gif width=150 height=50></td> 33 <td><FONT COLOR=WHITE><CENTER><BIG><img src=bot.gif width=150 height=50></td>
+<td><FONT COLOR=WHITE><CENTER><BIG><img src=bot.gif width=150 height=50>
+</td>
 <img src=1abf77afeb8493a09cbedd1a51f06122.jpg width=450 height=450 border=5>
 <img src=e67712666404878a8e46149b0cba944e.jpg width=450 height=450 border=5>
 <img src=829c2cfd7fb8672ac4c2ca8ae04c113c.jpg width=450 height=450 border=5>
