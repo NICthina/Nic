@@ -149,8 +149,8 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <Tr>
 <td><img src=85ae78058e3d0b1653d763072232add5.jpg width=250 height=250 border=5></td>
 <td><img src=f599e94391d8661815f9b84e5fe79427.jpg width=250 height=250 border=5></td>
-<td><img src=1922780aa733c9eee6912c33d0fa01f7.jpg width=250 height=250 border=5></td>
-<td><img src=0f28811f75c16803b9c11f9cd6b894fa.jpgwidth=250 height=250 border=5></td>
+<td><img src=38eea472b1de2685978ff96e895d1897.jpg width=250 height=250 border=5></td>
+<td><img src=0f28811f75c16803b9c11f9cd6b894fa.jpg width=250 height=250 border=5></td>
 </Tr>
 <td><FONT COLOR=WHITE><CENTER><BIG>R$75</td>
 <td><FONT COLOR=WHITE><CENTER><BIG>R$85</td>
@@ -161,10 +161,11 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
+<td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 </Tr>
 <Tr>
 <td><img src=1abf77afeb8493a09cbedd1a51f06122.jpg width=250 height=250 border=5></td>
-<td><img src=e67712666404878a8e46149b0cba944e.jpg width=250 height=250 border=5></td>
+<td><img src=66bf82f8fc302de7240185a7290e6ea4.jpg width=250 height=250 border=5></td>
 <td><img src=ccfc8c032c62d706508a57d371399070.jpg width=250 height=250 border=5></td>
 <td><img src=2d113f488ba22ac8d7ca3052ab28bdb0.jpg width=250 height=250 border=5></td>
 </Tr>
@@ -178,9 +179,10 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
+<td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 </Tr>
 <Tr>
-<td><img src=35f2599ef2b3823b281afeb444ce4958.jpg width=250 height=250 border=5></td>
+<td><img src=eca784463ebc5719683d9ffd033f538c.jpg width=250 height=250 border=5></td>
 <td><img src=550fe4873b09e4ef95b8f2fbdc6988be.jpg width=250 height=250 border=5></td>
 <td><img src=55d686474c081f78b3c947a7d48e444a.jpg width=250 height=250 border=5></td>
 <td><img src=4b69063cb45722effaef964dd9545c94.jpg width=250 height=250 border=5></td>
@@ -195,13 +197,14 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 <td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
+<td><FONT COLOR=WHITE><CENTER><BIG><img src=733392951e5d91cff34cc82e79addb92_w200.gif width=150 height=50></td>
 </Tr>
 </TABLE>
 </body>
 </html>
 <head>
 <html>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -226,7 +229,7 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </html>
 <head>
 <html>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
