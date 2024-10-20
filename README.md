@@ -12,12 +12,12 @@
 COSMICGUILD 
 <hr size=5 color=white>
 <hr size=2 color=white>
-<img src=al.png> <img src=a2.png>
-<img src=a3.png> <img src=a4.png>
-<img src=a5.png> <img src=a6.png
-<img src=a7.png> <img src=a8.png>
-<img src=a9.png> 
-<img src=a10.png>
+<img src=button_home.png> <img src=button_quem-somos.png>
+<img src=button_produtos.png> <img src=button_promocao.png>
+<img src=button_parceiros.png> <img src=button_videos.png>
+<img src=button_contatos.png> <img src=button_localizacao.png>
+<img src=button_trabalhe-conosco.png> 
+<img src=button_extra.png>
 <hr size=5 color=white>
 <hr size=2 color=white>
 <br>
@@ -36,11 +36,12 @@ COSMICGUILD
 QUEM SOMOS
 <hr size=5 color=white>
 <hr size=2 color=white>
-<img src=al.png> <img src=a2.png>
-<img src=a3.png> <img src=a4.png>
-<img src=a5.png> <img src=a6.png>
-<img src=a7.png> <img src=a8.png>
-<img src=a9.png> <img src=a10.png>
+<img src=button_home.png> <img src=button_quem-somos.png>
+<img src=button_produtos.png> <img src=button_promocao.png>
+<img src=button_parceiros.png> <img src=button_videos.png>
+<img src=button_contatos.png> <img src=button_localizacao.png>
+<img src=button_trabalhe-conosco.png> 
+<img src=button_extra.png>
 <hr size=5 color=white>
 <hr size=2 color=white>
 <br><p> A CosmicGuild é a sua parceira para desvendar um universo de colecionáveis. Imagine um lugar onde sua paixão por colecionar encontra um eco.
@@ -80,12 +81,16 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <marquee>LOCALIZAÇÃO</marquee>
 <hr size=5 color=white>
 <hr size=2 color=white>
-<img src=al.png><img src=a2.png><img src=a3.png><img src=a4.png><img src=a5.png><img src=a6.png>
-<img src=a7.png><img src=a8.png>
-<img src=a9.png><img src=a10.png>
+<img src=button_home.png> <img src=button_quem-somos.png>
+<img src=button_produtos.png> <img src=button_promocao.png>
+<img src=button_parceiros.png> <img src=button_videos.png>
+<img src=button_contatos.png> <img src=button_localizacao.png>
+<img src=button_trabalhe-conosco.png> 
+<img src=button_extra.png>
 <hr size=5 color=white>
 <hr size=2 color=white>
 <br>
+<img src= ATENÇÃO>
 <br><p>
 </body>
 </html>
