@@ -1,7 +1,7 @@
 # Index.html
 <html>
 <head>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -25,7 +25,7 @@ COSMICGUILD
 </body>
 </html>
 <head>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -70,7 +70,7 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </body>
 </html>
 <head>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -95,7 +95,7 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 </body>
 </html>
 <head>
-<title> CosmicGuild </title>
+<title>CosmicGuild</title>
 </head>
 <body bgcolor=#061D3C>
 <center>
@@ -136,19 +136,19 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <img src=button_trabalhe-conosco.png> 
 <img src=button_extra.png>
 <br><br>
-<img src=cl.jpeg width=450 height=450 border=5>
-<img src=c2.jpeg width=450 height=450 border=5>
-<img src=c3.jpeg width=450 height=450 border=5>
-<img src=c4.jpeg width=450 height=450 border=5>
+<img src=85ae78058e3d0b1653d763072232add5.jpg width=450 height=450 border=5>
+<img src=f599e94391d8661815f9b84e5fe79427.jpg width=450 height=450 border=5>
+<img src=1922780aa733c9eee6912c33d0fa01f7.jpg width=450 height=450 border=5>
+<img src=6c847d615ad5e92e3506bb4e6a685e6a.jpg width=450 height=450 border=5>
 <br>
-<img src=c5.jpeg width=450 height=450 border=5>
-<img src=c6.jpeg width=450 height=450 border=5>
-<img src=c7.jpeg width=450 height=450 border=5>
-<img src=c8.jpeg width=450 height=450 border=5>
+<img src=1abf77afeb8493a09cbedd1a51f06122.jpg width=450 height=450 border=5>
+<img src=e67712666404878a8e46149b0cba944e.jpg width=450 height=450 border=5>
+<img src=829c2cfd7fb8672ac4c2ca8ae04c113c.jpg width=450 height=450 border=5>
+<img src=2d113f488ba22ac8d7ca3052ab28bdb0.jpg width=450 height=450 border=5>
 <br>
-<img src=c4.jpeg width=450 height=450 border=5>
-<img src=c2.jpeg width=450 height=450 border=5>
-<img src=c1.jpeg width=450 height=450 border=5>
-<img src=c3.jpeg width=450 height=450 border=5>
+<img src=cab1e0cb64e65b24dbdb64c585ca69206.jpg width=450 height=450 border=5>
+<img src=227ced630e8dd0487fc6e2fb4770d66f.jpg width=450 height=450 border=5>
+<img src=55d686474c081f78b3c947a7d48e444a.jpg width=450 height=450 border=5>
+<img src=b77b9be98ae1f0ef359d9f89bfd21807.jpg width=450 height=450 border=5>
 </body>
 </html>
