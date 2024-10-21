@@ -115,13 +115,13 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <hr size=5 color=white>
 <br>
 <br><p>
-<iframe width="560" height="315" src="https://youtube.com/shorts/ZEzMQwPRbIw?si=fb2MWwkhp3ZBUWX-" title="YouTube video">
+<iframe width="560" height="315" src="https://youtube.com/shorts/ZEzMQwPRbIw?si=fb2MWwkhp3ZBUWX-" title="YouTube video"/>
 <BR>
 <BR>
-<iframe width="560" height="315" src="https://youtube.com/shorts/M1t3POpQPzM?si=e20NwcZpIwQt12r3" title="YouTube video">
+<iframe width="560" height="315" src="https://youtube.com/shorts/M1t3POpQPzM?si=e20NwcZpIwQt12r3" title="YouTube video"/>
 <BR>
 <BR>
-<iframe width="560" height="315" src="https://youtube.com/shorts/JTV-MzdxplE?si=28tbFg3g_fVtApQj" title="YouTube video">
+<iframe width="560" height="315" src="https://youtube.com/shorts/JTV-MzdxplE?si=28tbFg3g_fVtApQj" title="YouTube video"/>
 <BR>
 <BR>
 </body>
