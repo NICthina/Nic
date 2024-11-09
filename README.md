@@ -26,32 +26,6 @@ COSMICGUILD
 <img src=Picsart_24-10-20_12-13-00-375.png width=1100 height=600>
 </body>
 </html>
-
-<html>
-<head>
-</head>
-<body bgcolor=#061D3C>
-<center>
-<font face="Scrp and Molot" color=white>
-<h1><big>
-<hr size=2 color=white>
-<hr size=5 color=white>
-<marquee>LOCALIZAÇÃO</marquee>
-<hr size=5 color=white>
-<hr size=2 color=white>
-<img src=button_home.png> <img src=button_quem-somos.png>
-<img src=button_produtos.png> <img src=button_promocao.png>
-<img src=button_parceiros.png> <img src=button_videos.png>
-<img src=button_contatos.png> <img src=button_localizacao.png>
-<img src=button_trabalhe-conosco.png> 
-<img src=button_extra.png>
-<hr size=5 color=white>
-<hr size=2 color=white>
-<br>
-<iframe src="https://maps.app.goo.gl/HbKwru7gYiwcZ9LK7">
-<br><p>
-</body>
-</html>
 <head>
 </head>
 <body bgcolor=#061D3C>
