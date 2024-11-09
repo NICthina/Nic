@@ -500,7 +500,7 @@ A CosmicGuild é mais do que uma loja, é um destino para todos os apaixonados p
 <img src=button_trabalhe-conosco.png> 
 <img src=button_extra
 <br><br>
-<img src=25fd0fd4a2e26fdbbffa7b967caea87b.jpg width=200 height=150 border=5>
+<img src=86935ce4-3a2e-4f51-82e5-fb51875be738.jpg width=200 height=150 border=5>
 <img src=9f9094885c3542d645ac7c009eca0dac.jpg width=200 height=150 border=5>
 <img src=98755ce32b3ec996118b102aec07341e.jpg width=200 height=150 border=5>
 <img src=7ba27f2968ea06ca107a71aa0db03aa0.jpg width=200 height=150 border=5>
