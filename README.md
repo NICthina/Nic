@@ -26,38 +26,6 @@ COSMICGUILD
 <img src=Picsart_24-10-20_12-13-00-375.png width=1100 height=600>
 </body>
 </html>
-<head>
-</head>
-<body bgcolor=#061D3C>
-<center>
-<font face="Scrp and Molot" color=white>
-<h1><big>
-<hr size=2 color=white>
-<hr size=5 color=white>
-<marquee>VÍDEOS</marquee>
-<hr size=5 color=white>
-<hr size=2 color=white>
-<img src=button_home.png> <img src=button_quem-somos.png>
-<img src=button_produtos.png> <img src=button_promocao.png>
-<img src=button_parceiros.png> <img src=button_videos.png>
-<img src=button_contatos.png> <img src=button_localizacao.png>
-<img src=button_trabalhe-conosco.png> 
-<img src=button_extra.png>
-<hr size=5 color=white>
-<hr size=5 color=white>
-<br>
-<br><p>
-<iframe width="560" height="315" src="https://youtube.com/shorts/ZEzMQwPRbIw?si=fb2MWwkhp3ZBUWX-" title="YouTube video"/>
-<BR>
-<BR>
-<iframe width="560" height="315" src="https://youtube.com/shorts/M1t3POpQPzM?si=e20NwcZpIwQt12r3" title="YouTube video"/>
-<BR>
-<BR>
-<iframe width="560" height="315" src="https://youtube.com/shorts/JTV-MzdxplE?si=28tbFg3g_fVtApQj" title="YouTube video"/>
-<BR>
-<BR>
-</body>
-</html>
 <html>
 <head>
 </head>
